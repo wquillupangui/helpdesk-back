@@ -43,13 +43,13 @@ spring.datasource.username=postgres
 spring.datasource.password=admin
 ```
 
-- If you use a Sample Data :
+  - If you use a Sample Data :
 
 ```java
 spring.jpa.hibernate.ddl-auto=update
 ```
 
-- If you start a DB from scratch :
+  - If you start a DB from scratch :
 
 ```java
 spring.jpa.hibernate.ddl-auto=create
