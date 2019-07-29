@@ -2,7 +2,7 @@
 
 ## Brief
 
-helpdesk-back is a REST services provider over Java, using PostgreSQL server for the data persist. the project is the back-end of edimca helpdesk project.
+helpdesk-back is a REST services provider over Java, using PostgreSQL server for the data persist. The project is the back-end of edimca helpdesk project.
 
 ## Built With
 
