@@ -20,8 +20,8 @@ A sample database for PostgreSQL to be used with edimca/helpdesk-back applicatio
   `helpdesk-back\sql\backupDB_sample.sql` schema with data.
 - You can restore your database by using PostgreSQL interactive terminal, and running the following command:
 
-```psql -U postgres edimca < backupDB_sample.sql
-
+```
+psql -U postgres edimca < backupDB_sample.sql
 ```
 
 ## Running the application locally
